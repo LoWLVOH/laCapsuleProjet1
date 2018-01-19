@@ -1,0 +1,52 @@
+* {
+  margin: 0px
+}
+
+body {
+  background-color: #ebebeb;
+  display: flex;
+  justify-content: center;
+}
+
+.avatar {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.dust {
+  width: 20px;
+  padding: 10px;
+}
+
+.general {
+  width: 60vw;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.c1 {
+  border: 1px solid #d1d1d1;
+  font-family: "Open Sans";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60vw;
+  height: 100px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+h2 {
+  font-size: 17px;
+}
+
+p {
+  font-size: 12px;
+}
+
+.text {
+  padding: 10px;
+}
